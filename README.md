@@ -4,7 +4,7 @@
 
 - ⚡  My motivation: **I am creating this portfolio to showcase my learning journey across various topics related to my studies and to present my skills to potential employers**
 
-- 🌱 I’m currently learning **Numerical methods with Python and topics in Space Mechanics**
+- 🌱 I’m currently learning **C and C++ as well as Numerical methods with Python and topics in Space Mechanics. t will take some time to compile all of this information here, but my hope is that through consistent practice, I can soon have numerous scripts ready.**
 
 - 📫 How to reach me **michal.sleszynski2@gmail.com**
 
